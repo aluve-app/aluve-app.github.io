@@ -1,1 +1,16 @@
-[{ "relation": ["delegate_permission/common.handle_all_urls"], "target": { "namespace": "android_app", "package_name": "io.github.aluve_app.twa", "sha256_cert_fingerprints": ["7D:2B:0B:E5:CB:1B:14:94:6B:8D:82:3A:3C:10:3E:5B:FB:C3:B4:BF:AB:B4:5D:BC:DD:C7:E3:E0:4B:CB:21:DE"] } }, { "relation": ["delegate_permission/common.handle_all_urls"], "target": { "namespace": "android_app", "package_name": "io.github.gbp_app.twa", "sha256_cert_fingerprints": ["1B:38:7B:FE:1C:31:D0:4C:88:33:26:AD:5C:DE:63:11:4F:EC:F0:5F:6E:07:60:63:AF:4B:86:6B:16:CB:30:47"] } }]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.aluve_app.twa",
+        "sha256_cert_fingerprints": ["7D:2B:0B:E5:CB:1B:14:94:6B:8D:82:3A:3C:10:3E:5B:FB:C3:B4:BF:AB:B4:5D:BC:DD:C7:E3:E0:4B:CB:21:DE"]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.gbp_app.twa",
+        "sha256_cert_fingerprints": ["1B:38:7B:FE:1C:31:D0:4C:88:33:26:AD:5C:DE:63:11:4F:EC:F0:5F:6E:07:60:63:AF:4B:86:6B:16:CB:30:47"]
+      }
+    }]
